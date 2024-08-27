@@ -1,0 +1,20 @@
+{
+  "name": "student-mentor-task",
+  "version": "1.0.0",
+  "description": "Student/Mentor Task using Express and MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harish Raajaa R V",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}
